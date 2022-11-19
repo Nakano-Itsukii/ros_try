@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/src/learning_topic",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "cholesky": "cpp",
+        "core": "cpp",
+        "eigenvalues": "cpp",
+        "geometry": "cpp",
+        "householder": "cpp",
+        "jacobi": "cpp",
+        "lu": "cpp",
+        "qr": "cpp",
+        "svd": "cpp",
+        "stdvector": "cpp",
+        "vector": "cpp"
+    }
+}

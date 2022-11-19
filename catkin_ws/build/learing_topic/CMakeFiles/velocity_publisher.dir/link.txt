@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/velocity_publisher.dir/src/velocity_publisher.cpp.o  -o /home/reird/catkin_ws/devel/lib/learing_topic/velocity_publisher 

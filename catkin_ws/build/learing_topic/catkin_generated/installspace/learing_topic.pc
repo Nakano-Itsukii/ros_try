@@ -1,0 +1,8 @@
+prefix=/home/reird/catkin_ws/install
+
+Name: learing_topic
+Description: Description of learing_topic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
